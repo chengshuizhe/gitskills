@@ -15,3 +15,4 @@ modify in master now
 
 modiy in dev1
 
+modify in dev, and stash it
